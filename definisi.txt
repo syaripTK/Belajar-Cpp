@@ -1,0 +1,9 @@
+Definisi Algoritma
+1. Urutsn lsngksh2 untuk menyelesaikan masalah
+2. Urutan logis pengambilan keputusan untuk memecahkan masalah
+3. Alur pemikiran dalam menyelesaikan suatu pekerjaan yang dituangkan secara tertulis
+
+
+Alghoritm === Math
+dibangun oleh tiga bagian spesifik
+1. Diketahui, 2. Ditanyakan, 3. Jawaban
